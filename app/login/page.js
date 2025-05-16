@@ -40,17 +40,11 @@ export default function Login() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-adani-blue to-adani-purple py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8 bg-white p-10 rounded-xl shadow-2xl">
         <div className="text-center">
-          <div className="flex justify-center">
-            <div className="flex items-center">
-              <span className="text-adani-blue font-bold text-3xl">Cyber</span>
-              <span className="text-gray-600 ml-2 font-medium text-xl">Shield</span>
-            </div>
-          </div>
           <h2 className="mt-4 text-center text-2xl font-bold text-gray-800">
             Secure Access Portal
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Enter your credentials to access Cyber Threat Intelligence
+            Enter your credentials to access
           </p>
         </div>
         
