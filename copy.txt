@@ -1,0 +1,60 @@
+[PAGE 1 – FRONT]
+Title:
+Defend as One - Adani
+Threat Intelligence Operationalisation Services for Partners and Suppliers
+Subheading:
+Empowering you with real-time, contextual, and AI-processed Cyber and OT threat intelligence through the Adani Collaborate Portal.
+Overview:
+As cyber threats targeting Indian enterprises and critical infrastructure grow in both frequency and sophistication, Adani has launched a strategic initiative to operationalise Cyber and OT threat intelligence across its extended partner ecosystem. Through this initiative, Adani now delivers real-time, high-fidelity threat intelligence along with operationalisation and actioning services—empowering every partner organization to proactively defend against emerging threats. 
+Delivered via the Adani Collaborate Portal, this program ensures timely, targeted, and collaborative intelligence sharing with the right teams.
+Technology Backbone
+
+<Architecture Diagram>
+Adani Collaborate Portal – A unified, secure portal for Adani partners to access all types of Threat Intelligence data. From IOC threat feeds and security advisories to sandbox malware analysis, compromised credential monitoring, threat intelligence operationalisation/actioning and WhatsApp intel actioning—everything is accessible in one Portal.
+With role-based access, easy search, and direct actioning capabilities, Adani Collaborate Portal simplifies threat intel consumption and operationalisation, eliminating the need for multiple tools or manual processes.
+
+
+
+
+[PAGE 2 – BACK]
+Threat Intelligence Services Delivered Via Adani Collaborate Portal
+Cyber Threat Intelligence Feeds
+Context-rich, high-fidelity threat intelligence containing Indicators of Compromise (IOCs), malware hashes, and TTPs—tailored to your sector and risk profile. Visualize risk scores, enrichment verdicts, and malicious relationships across the feed using an intuitive interface—enabling faster triaging and confident decision-making.
+
+
+Threat Advisories
+AI-curated and analyst-reviewed early warning threat advisories delivering strategic and operational intelligence on malware, vulnerabilities, threat actors, and incidents—highlighting emerging threats, exploit trends, and mitigations for faster, action-oriented decisions.
+
+
+Compromised Credential Monitoring (CCM)
+Continuous monitoring for exposed credentials related to your organization’s domains—enabling early detection and proactive credential resets.
+
+
+Threat Intel Operationalisation and Actioning
+Operationalise threat intelligence through response playbooks and seamless integrations with your existing security and IT tools—enabling automated or one-click mitigation and accelerating threat response with minimal manual effort.
+
+
+WhatsApp Intel Actioning
+Simply forward threat intel advisories received via WhatsApp to your dedicated portal mailbox. The threat intel will be automatically parsed, enriched, and actioned —closing the gap between informal alerts and formal response
+
+
+Malware Sandbox as a Service
+Upload suspicious files or URLs via the portal to instantly receive dynamic behavioral analysis, AI-driven threat classification, and associated IOCs for immediate downstream actioning.
+
+
+Why This Matters For Your Organization
+✅ Real-Time Threat Awareness
+Stay ahead of evolving threats with continuously updated, high-fidelity intelligence tailored to your organization’s risk profile.
+✅ Operationalised Intelligence at Scale
+Operationalise intel into your security and IT tools through pre-built integrations and automated workflows.
+✅ Intelligence You Can Trust
+Access AI-analyzed, expert-validated intelligence—delivered with the context needed to drive faster and smarter decisions.
+✅ Seamless Integration with Existing Tools
+Effortlessly connect to your SIEM, EDR, firewalls, and ticketing systems with pre-built integrations—no rip-and-replace needed.
+✅ One Portal. Everything You Need.
+Eliminate the need for separate investments in enterprise-grade TIP, SOAR, credential monitoring tools, or premium threat feeds. Get it all—curated, operationalized, and actionable—via a single, purpose-built portal.
+
+Getting Started
+To subscribe to Adani’s Threat Intelligence Services, please reach out to:  [Insert contact email]
+Our team will guide you through the onboarding process and provide access to the Adani Collaborate Member Portal.
+ 
