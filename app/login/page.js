@@ -104,10 +104,6 @@ export default function Login() {
               Sign in
             </button>
           </div>
-          
-          <div className="text-center text-xs text-gray-500 mt-4">
-            <p>For demo purposes: Username is "clever-otter-9283" and password is "G7u!xZ@2pL#qM9vB"</p>
-          </div>
         </form>
       </div>
     </div>
